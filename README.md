@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajwoody007
-- 👀 I’m interested in php and c#
-- 🌱 I’m currently learning phpUnit and Laravel
+- 👀 I’m experienced in the php stack on Windows and Ubuntu/Linux
+- 🌱 I’m currently learning phpUnit, VueJS and Laravel
 - 💞️ I’m looking to collaborate on backend projects
 - 📫 You can reach me at andy@andywood.net
 
