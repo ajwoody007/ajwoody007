@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ajwoody007
 - 👀 I’m experienced in the php stack on Windows and Ubuntu/Linux
 - 🌱 I’m currently learning phpUnit, VueJS, CodeIgniter, Android Studio
-- 💞️ I’m looking to collaborate on backend projects
+- 💞️ I currently work for Tizo Limited
 - 📫 You can reach me at andy@andywood.net
 
 <!---
