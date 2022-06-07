@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajwoody007
 - 👀 I’m experienced in the php stack on Windows and Ubuntu/Linux
-- 🌱 I’m currently learning phpUnit, VueJS and CodeIgniter
+- 🌱 I’m currently learning phpUnit, VueJS, CodeIgniter, Android Studio
 - 💞️ I’m looking to collaborate on backend projects
 - 📫 You can reach me at andy@andywood.net
 
