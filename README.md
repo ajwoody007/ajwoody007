@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajwoody007
 - 👀 I’m experienced in the php stack on Windows and Ubuntu/Linux
-- 🌱 I’m currently learning Laravel and .NET MAUI
+- 🌱 I’m currently learning Laravel
 - 💞️ I most recently worked for Tizo Limited
 - 📫 You can reach me at andy@andywood.net
 
