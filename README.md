@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ajwoody007
 - 👀 I’m experienced in the php stack on Windows and Ubuntu/Linux
 - 🌱 I’m currently learning Laravel
-- 💞️ I most recently worked for Tizo Limited
+- 💞️ I now work for Stevenage Packaging Limited.
 - 📫 You can reach me at andy@andywood.net
 
 <!---
