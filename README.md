@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajwoody007
-- 👀 I’m experienced in the php stack on Windows and Ubuntu/Linux
-- 🌱 I’m currently learning Laravel
+- 👀 I’m experienced in the php stack on Windows and Ubuntu/Linux and C#/ASP.NET on Windows.
+- 🌱 I’m currently building an app in C#/ASP.NET for small business.
 - 💞️ I now work as a php developer in Stevenage, UK.
 - 📫 You can reach me at andy@andywood.net
 
