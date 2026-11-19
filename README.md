@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ajwoody007
 - 👀 Experienced in the php stack on Windows and Ubuntu/Linux.
 - 🧑‍🎓 Learning Laravel and Tailwind
-- 🌱 Building an app in React Native for small businesses.
-- 💞️ Woking as a php developer in Stevenage, UK.
+- 🌱 Building a journaling app in Laravel.
 - 📫 Reachable via andy@andywood.net
 
 <!---
